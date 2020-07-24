@@ -3,6 +3,7 @@
 - Te da miedo ¡¡??
 - Te da miedo X DONAS ¡¡??
 - Segundo comit raro
+- Terceri comit raro
 
 
 # Editor.md
